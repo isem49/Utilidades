@@ -1,0 +1,12 @@
+h1{
+	color: red;
+	letter-spacing: -1px -1px;
+	text-transform: capitalize;
+	width: 650;
+	text-shadow: -1px -1px black;
+}
+p{
+	width: 600px;
+	font-size: 18px;
+	font-family: 'Indie Flower', cursive;
+}
